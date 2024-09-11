@@ -1,6 +1,3 @@
-
-Sure! Here’s the updated text in English:
-
 library_application
 A new React Native project.
 
